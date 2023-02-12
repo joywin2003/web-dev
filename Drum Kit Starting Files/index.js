@@ -54,10 +54,10 @@ function makeSound(choice) {
   }
 }
 
-function buttonAnimation(currentkey){
-  var activeKey = document.querySelector("."+currentkey);
+function buttonAnimation(currentkey) {
+  var activeKey = document.querySelector("." + currentkey);
   activeKey.classList.add("pressed");
-  setTimeout(function(){
+  setTimeout(function() {
     activeKey.classList.remove("pressed");
-  },100);
+  }, 100);
 }
