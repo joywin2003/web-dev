@@ -8,6 +8,10 @@ The Drum Kit project is a fun and interactive web application built using JavaSc
 ### Project 2: Dice game
 The Dice Game project is a web-based game developed using HTML, CSS, and JavaScript that allows two players to compete against each other by rolling dice and trying to achieve the highest score.
 
+### Project 3: Spotify clone
+The Spotify Clone project is a web application that mimics the features and functionality of the popular music streaming platform, Spotify, but with a focus on anime songs.
+
+
 
 
 
