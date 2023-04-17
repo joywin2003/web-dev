@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&family=Ubuntu+Mono&display=swap');
+
+body{
+    background-color: antiquewhite;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'Montserrat', sans-serif;
+}
+nav ul{
+    color: white;
+    height: 54px;
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+}
+nav li{
+    padding:5px;
+}
+ 
+.container{
+    min-height: 65vh;
+    color:white;
+    background-color: black;
+    width: 70%;
+    margin:20px auto;
+    border-radius: 2%;
+    padding: 20px;
+    background-image: url("background.jpeg");
+}
+.songItemContainer{
+    margin-top: 40px;
+}
+.brand img{
+    width: 44px;
+    padding: 8px;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.bottom{
+    background: #000;
+    height: 130px;
+    color: aliceblue;
+    display: flex;
+    position:sticky;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+/* .icons{
+    margin: 25px 0px;
+} */
+.icons i{
+    cursor:pointer;
+    margin: 0px 10px;
+}
+#myProgressBar{
+    width: 90vh;
+    cursor:pointer
+}
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 40%;
+    color: black;
+    margin: 12px 0;
+    justify-content: start;
+    align-items: center;
+    border-radius: 34px;
+}
+
+.songItem img{
+    width: 43px;
+    margin: 0 23px;
+    border-radius: 34px;
+}
+
+.icons{
+    margin: 10px 10px;
+}
+
+.icons i{
+    cursor: pointer;
+    margin: 0px 0px;
+}
