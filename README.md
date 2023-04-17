@@ -5,6 +5,9 @@ Welcome to my collection of web development projects! Here you will find a varie
 ### Project 1: Drum kit
 The Drum Kit project is a fun and interactive web application built using JavaScript that allows users to play various musical instruments by simply pressing the corresponding keys on their keyboard.
 
+### Project 2: Dice game
+The Dice Game project is a web-based game developed using HTML, CSS, and JavaScript that allows two players to compete against each other by rolling dice and trying to achieve the highest score.
+
 
 
 
